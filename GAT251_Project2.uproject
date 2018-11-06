@@ -12,10 +12,6 @@
 		{
 			"Name": "AnalyticsBlueprintLibrary",
 			"Enabled": true
-		},
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
 		}
 	]
 }
